@@ -1,0 +1,51 @@
+{
+  "name": "kazi-momena-akter-mim",
+  "version": "0.1.0",
+  "homepage": "http://www.moheb.unaux.com",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@mui/base": "^5.0.0-alpha.92",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/joy": "^5.0.0-alpha.40",
+    "@mui/material": "^5.10.0",
+    "@mui/system": "^5.10.0",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.3.1",
+    "fslightbox-react": "^1.4.5",
+    "node-sass": "^4.13.0",
+    "react": "^16.12.0",
+    "react-content-loader": "^4.3.2",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dom": "^16.12.0",
+    "react-icons": "^3.8.0",
+    "react-router-dom": "^5.1.2",
+    "react-router-scroll-top": "^0.2.1",
+    "react-scripts": "3.2.0",
+    "react-slick": "^0.25.2",
+    "slick-carousel": "^1.8.1"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
